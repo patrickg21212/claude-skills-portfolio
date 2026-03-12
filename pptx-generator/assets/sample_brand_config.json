@@ -1,0 +1,36 @@
+{
+  "company": "Acme Corp",
+  "fonts": {
+    "heading": {
+      "name": "Calibri",
+      "size": 36,
+      "bold": true,
+      "color": "#1B2A4A"
+    },
+    "subtitle": {
+      "name": "Calibri",
+      "size": 20,
+      "bold": false,
+      "color": "#5A6B7C"
+    },
+    "body": {
+      "name": "Calibri",
+      "size": 18,
+      "bold": false,
+      "color": "#333333"
+    }
+  },
+  "colors": {
+    "primary_bg": "#FFFFFF",
+    "slide_bg": "#FFFFFF",
+    "accent": "#2563EB",
+    "body_text": "#333333",
+    "heading_text": "#1B2A4A"
+  },
+  "layouts": {
+    "title_slide": 0,
+    "content_slide": 1,
+    "section_header": 2,
+    "two_column": 3
+  }
+}
